@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dumbbell centered in the 108x108 canvas (safe zone ~18..90) -->
+    <!-- handle bar -->
+    <path android:fillColor="#C8FF3D" android:pathData="M40,50 h28 v8 h-28 z" />
+    <!-- left inner plate -->
+    <path android:fillColor="#C8FF3D" android:pathData="M33,40 h7 v28 h-7 z" />
+    <!-- left outer plate -->
+    <path android:fillColor="#A6E62F" android:pathData="M26,45 h7 v18 h-7 z" />
+    <!-- right inner plate -->
+    <path android:fillColor="#C8FF3D" android:pathData="M68,40 h7 v28 h-7 z" />
+    <!-- right outer plate -->
+    <path android:fillColor="#A6E62F" android:pathData="M75,45 h7 v18 h-7 z" />
+</vector>
